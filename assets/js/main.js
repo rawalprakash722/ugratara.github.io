@@ -206,7 +206,7 @@
     // speed: 1,
     // loop: true,
     autoplay: {
-      delay: 1000,
+      // delay: 1000,
       // disableOnInteraction: false
     },
     pagination: {
