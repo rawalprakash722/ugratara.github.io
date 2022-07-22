@@ -2,7 +2,7 @@
 
 (function first() {
   // https://dashboard.emailjs.com/admin/account
-  emailjs.init('pUrkJafeKUwMX8c7f');
+  emailjs.init('U7IEJsYG7n6kp4mwm');
 })();
 
 
@@ -308,7 +308,7 @@ readMoreFun();
       }
 
 
-      emailjs.send("service_grokkbn","template_i3z5ioo",params).then(function(res){
+      emailjs.send("service_7pbl3b2","template_7fny4c7",params).then(function(res){
         showMessage.innerHTML = "Thank you for connecting with us. We will reply you ASAP!!"
           // alert("Your Queries are successfully submitted ! Thank you");
           // window.location.reload()
